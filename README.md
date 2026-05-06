@@ -8,9 +8,17 @@ Intérprete de Libras em transição de carreira. Analista de Dados formada pela
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosanamello)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosanamello&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projetos
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rosanamello&repo=relatorio-da-qualidade-das-informacoes-na-area-da-saude" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rosanamello&repo=relatorio-da-quantidade-de-vendas-por-determinado-segmento" />
+</a>
+
+##
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rosanamello&repo=relatorio-da-qualidade-das-informacoes-na-area-da-saude&theme=radical)](https://github.com/rosanamello/relatorio-da-qualidade-das-informacoes-na-area-da-saude)
 
