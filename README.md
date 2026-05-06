@@ -6,6 +6,8 @@ Intérprete de Libras em transição de carreira. Analista de Dados formada pela
 
 ### Detalhes
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosanamello)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosanamello&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projetos
