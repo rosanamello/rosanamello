@@ -10,6 +10,8 @@ Intérprete de Libras em transição de carreira. Analista de Dados formada pela
 
 ### Projetos
 
+[![Estatísticas do Seu User](https://github-readme-stats.vercel.app/api?username=rosanamello)](https://github.com/relatorio-da-qualidade-das-informacoes-na-area-da-saude)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rosanamello&repo=relatorio-da-qualidade-das-informacoes-na-area-da-saude.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens utilizadas
